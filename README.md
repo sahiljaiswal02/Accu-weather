@@ -8,6 +8,7 @@ Location Search: Users can search for the weather in a specific location by typi
 Responsive Design: The app is designed to work seamlessly on different devices, including desktops, tablets, and mobile phones.
 
 How to Use-> 
+Fork the git repo
 Clone the repository to your local machine or download the source code as a ZIP file.
 Open the index.html file in your web browser.
 Enter the name of a city or its coordinates in the search bar and click the "Search" button.
